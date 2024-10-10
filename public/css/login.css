@@ -1,0 +1,17 @@
+  /* Agregamos algo de estilo personalizado */
+  .login-box {
+    margin-top: 5%;
+    width: 360px;
+}
+.login-card-body {
+    padding: 2rem;
+    border-radius: 0.5rem;
+}
+.login-logo a {
+    font-weight: bold;
+    color: #007bff;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
